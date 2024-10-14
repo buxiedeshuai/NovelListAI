@@ -9,26 +9,26 @@
     },
     "Hero": {
       "title": "欧洲联赛积分榜",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+      "description": "最直观看到各个联赛排名",
       "cta": "开始使用"
     },
     "Features": {
-      "title": "主要功能",
+      "title": "联赛积分榜",
       "characterProfile": {
-        "title": "角色档案生成器",
-        "description": "轻松创建详细的角色档案。"
+        "title": "英格兰足球超级联赛",
+        "description": "英超"
       },
       "storyStructure": {
-        "title": "故事结构",
-        "description": "使用强大的结构工具组织您的故事。"
+        "title": "西班牙足球甲级联赛",
+        "description": "西甲"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
-        "description": "精准编辑和完善您的场景。"
+        "title": "意大利足球甲级联赛",
+        "description": "意甲"
       },
       "aiTools": {
-        "title": "AI辅助工具",
-        "description": "利用AI驱动的建议提升您的写作。"
+        "title": "德国足球甲级联赛",
+        "description": "德甲"
       }
     },
     "Testimonials": {
@@ -36,17 +36,17 @@
       "testimonial1": {
         "name": "Sarah Johnson",
         "role": "编剧",
-        "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
+        "content": "足球吧给我看球带来很大便利"
       },
       "testimonial2": {
         "name": "Michael Lee",
         "role": "电影导演",
-        "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
+        "content": "足球吧让我宏观上更加理解足球"
       },
       "testimonial3": {
         "name": "Emily Rodriguez",
         "role": "电视制片人",
-        "content": "AI辅助工具帮助我无数次克服了写作障碍。强烈推荐！"
+        "content": "足球吧太方便了，强烈推荐！"
       }
     },
     "Header": {
@@ -74,7 +74,7 @@
       "copyright": "© 2023 ScriptCraft。保留所有权利。"
     },
     "ProductShowcase": {
-      "title": "场景by场景，精心打造您的故事",
+      "title": "方便热爱足球的你",
       "imageAlt": "ScriptCraft界面"
     }
   },
